@@ -1,0 +1,40 @@
+Region,Country,ProductCategory,Campaign_ID,Campaign_Name,Qualification,Qualification_Number,Response_Status,Responses,Cost,Revenue,ROI,Lead_Generation,Revenue_Target,Campaign_Tactic,Customer_Segment,Status,Profit,Marketing_Cost,CampaignID,Date,SORTED_ID
+Europe,Germany,,108,southBeach,NA,NA,Qualified,656,191,91855.56,13860,NA,4658.03,Boomer; GenX; GenY; GenZ,Social,Intent,480.56,747.206,11,2021-11-16T00:00:00.0000000,3
+South America,Brazil,,111,futureTech,NA,NA,Active,241.5,191,4068.43,17820,NA,632.295,Gen Z (2000s - now),TV,Consideration,210.73,958.147,11,2021-04-20T00:00:00.0000000,3
+North & Central America,USA,,114,futureTech,NA,NA,Qualified,896,191,16521.55,13860,NA,79542.1,Boomer; GenX; GenY; GenZ,Social,Awareness,-1318.52,23.018,11,2021-09-18T00:00:00.0000000,3
+North & Central America,USA,,117,futureTech,NA,NA,Active,162.5,174,11957.67,13860,NA,129370,Baby Boomers (45 ? 60s),Social,Inquiries,1423.07,32.776,11,2021-06-27T00:00:00.0000000,3
+North & Central America,USA,,120,southBeach,NA,NA,Qualified,328,174,45927.78,13860,NA,2329.015,Baby Boomers (45 ? 60s),Social,Intent,480.56,747.206,11,2021-03-05T00:00:00.0000000,3
+Europe,Germany,,123,SustainableFashion,NA,NA,Active,386,191,77926.56,9900,NA,1970.876,Gen Z (2000s - now),TV,Consideration,-12.09,197.063,11,2021-09-02T00:00:00.0000000,3
+North & Central America,USA,,126,fashion,NA,NA,Qualified,314,174,18951.46,7920,NA,97427,Boomer; GenX; GenY; GenZ,Social,Awareness,901.51,93.891,11,2021-11-21T00:00:00.0000000,3
+North & Central America,USA,,129,outdoor,NA,NA,Qualified,949,174,35022.18,15840,NA,85438.42,Baby Boomers (45 ? 60s),Email,Awareness,1023.06,118.099,11,2021-09-02T00:00:00.0000000,3
+Asia Pacific,Japan,,132,futureTech,NA,NA,Active,807,191,43825.49,1980,NA,2240.38,Gen Y (80 ? 2000s),Event,Inquiries,-140.33,563.815,11,2021-12-10T00:00:00.0000000,3
+South America,Brazil,,135,futureTech,NA,NA,Active,807,191,39537.51,15840,NA,224604,Baby Boomers (45 ? 60s),Event,Inquiries,2073.32,72.556,11,2021-11-22T00:00:00.0000000,3
+Europe,Germany,,138,SustainableFashion,NA,NA,Active,386,174,22431.02,9900,NA,133892,Gen X (60 ? 80s),TV,Consideration,12.07,117.878,11,2021-07-24T00:00:00.0000000,3
+Europe,Germany,,141,SustainableFashion,NA,NA,Active,170,1,5335.28,17820,NA,71799.5,Gen X (60 ? 80s),Social,Inquiries,193.63,26.112,21,2021-06-06T00:00:00.0000000,4
+Europe,Germany,,144,fashion,NA,NA,Qualified,198,156,14833.52,17820,NA,88706,Boomer; GenX; GenY; GenZ,Event,Awareness,-375.7,63.189,25,2021-11-25T00:00:00.0000000,2
+North & Central America,USA,,147,southBeach,NA,NA,Qualified,749,156,79167.99,19800,NA,-2578.64,Baby Boomers (45 ? 60s),Social,Awareness,-685.68,149.686,25,2021-01-31T00:00:00.0000000,2
+Europe,Germany,,150,outdoor,NA,NA,Qualified,159.5,200,33988.04,11880,NA,316.295,NULL,Social,Awareness,-359.6,521.479,25,2021-06-04T00:00:00.0000000,2
+Asia Pacific,Japan,,153,beach,NA,NA,Qualified,1103,156,82166.68,19800,NA,-1360.81,Gen X (60 ? 80s),Event,Awareness,761.93,196.07,25,2021-08-10T00:00:00.0000000,2
+Europe,Germany,,156,beach,NA,NA,Qualified,40.5,230,33260.25,19800,NA,-1967.77,Gen Z (2000s - now),Social,Awareness,-154.9,272.576,25,2021-03-13T00:00:00.0000000,2
+North & Central America,USA,,159,futureTech,NA,NA,Qualified,1103,174,9879.04,7920,NA,167756,Boomer; GenX; GenY; GenZ,Event,Awareness,517.48,88.077,25,2021-12-15T00:00:00.0000000,2
+Europe,Germany,,162,outdoor,NA,NA,Qualified,374.5,30,12194.22,5940,NA,1336.64,Gen X (60 ? 80s),Social,Awareness,33.61,946.151,25,2021-06-12T00:00:00.0000000,2
+Europe,Germany,,165,beach,NA,NA,Qualified,749,230,11180.56,19800,NA,267410,Boomer; GenX; GenY; GenZ,Social,Awareness,1037.34,53.992,25,2021-12-21T00:00:00.0000000,2
+Europe,Germany,,168,fashion,NA,NA,Qualified,749,200,11180.56,1980,NA,267410,Boomer; GenX; GenY; GenZ,Social,Awareness,1037.34,53.992,25,2021-12-21T00:00:00.0000000,2
+North & Central America,USA,,171,outdoor,NA,NA,Qualified,81,230,66520.49,19800,NA,-3935.54,Boomer; GenX; GenY; GenZ,Social,Awareness,-154.9,272.576,25,2021-02-17T00:00:00.0000000,2
+North & Central America,USA,,174,southBeach,NA,NA,Active,817,230,26845.04,5940,NA,327114,Gen Z (2000s - now),Social,Consideration,2002.6,79.492,25,2021-01-13T00:00:00.0000000,2
+South America,Brazil,,177,entertainment,NA,NA,Qualified,749,230,11180.56,1980,NA,267410,Boomer; GenX; GenY; GenZ,Social,Awareness,1037.34,53.992,25,2021-07-04T00:00:00.0000000,2
+Europe,Germany,,180,outdoor,NA,NA,Qualified,40.5,230,3547.56,13860,NA,74060.5,Baby Boomers (45 ? 60s),Social,Awareness,-64.26,41.973,25,2021-03-03T00:00:00.0000000,2
+Europe,Germany,,183,outdoor,NA,NA,Qualified,374.5,230,5590.28,13860,NA,133705,Gen Z (2000s - now),Social,Awareness,1037.34,53.992,25,2021-03-22T00:00:00.0000000,2
+South America,Brazil,,186,SustainableFashion,NA,NA,Qualified,740,156,8278.32,11880,NA,511.76,Boomer; GenX; GenY; GenZ,Media Placements,Awareness,-395.06,140.316,25,2021-02-02T00:00:00.0000000,2
+Europe,Germany,,189,southBeach,NA,NA,Qualified,132,270,6192.79,15840,NA,2980.26,Boomer; GenX; GenY; GenZ,Event,Awareness,410.81,993.636,25,2021-06-17T00:00:00.0000000,2
+Europe,Germany,,192,entertainment,NA,NA,Qualified,749,230,11180.56,19800,NA,267410,Gen Z (2000s - now),Social,Awareness,1037.34,53.992,25,2021-08-12T00:00:00.0000000,2
+North & Central America,USA,,195,fashion,NA,NA,Qualified,81,230,7095.12,13860,NA,148121,Boomer; GenX; GenY; GenZ,Social,Awareness,-64.26,41.973,25,2021-08-15T00:00:00.0000000,2
+South America,Brazil,,198,entertainment,NA,NA,Qualified,749,230,11180.56,1980,NA,267410,Boomer; GenX; GenY; GenZ,Social,Awareness,1037.34,53.992,25,2021-07-17T00:00:00.0000000,2
+Europe,Germany,,201,futureTech,NA,NA,Active,149,174,39888.11,15840,NA,1391.57,Boomer; GenX; GenY; GenZ,Event,Inquiries,-177.74,105.704,34,2021-04-09T00:00:00.0000000,5
+North & Central America,USA,,204,futureTech,NA,NA,Accepted,247,240,11757.88,17820,NA,108111.5,Gen X (60 ? 80s),Email,Purchase,1520.31,76.364,50,2021-04-12T00:00:00.0000000,6
+North & Central America,USA,,207,futureTech,NA,NA,Active,1021,1.25,76656.75,1980,NA,-1749.92,Gen Y (80 ? 2000s),Social,Consideration,-211.73,40.71,50,2021-01-06T00:00:00.0000000,6
+North & Central America,USA,,210,southBeach,NA,NA,Active,358,1.25,17848.64,15840,NA,254235,Baby Boomers (45 ? 60s),Event,Inquiries,1433.27,29.954,50,2021-01-08T00:00:00.0000000,6
+Europe,Germany,,213,futureTech,NA,NA,Accepted,233,240,8148.44,7920,NA,83512.5,Gen Z (2000s - now),Event,Purchase,1091.91,93.568,50,2021-06-24T00:00:00.0000000,6
+Europe,Germany,,216,futureTech,NA,NA,Accepted,759,56,92684.94,17820,NA,-6203.04,Gen Z (2000s - now),Media Placements,Purchase,-430.12,643.068,50,2021-08-20T00:00:00.0000000,6
+Europe,Germany,,219,fashion,NA,NA,Active,107,56,15643.95,17820,NA,-7830.29,Gen Z (2000s - now),TV,Inquiries,403.4,58.528,50,2021-02-04T00:00:00.0000000,6
+Europe,Germany,,222,SustainableFashion,NA,NA,Qualified,232,197,28177.53,13860,NA,-1194.19,NULL,Event,Intent,31.33,18.063,50,2021-02-20T00:00:00.0000000,6
